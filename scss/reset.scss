@@ -1,0 +1,63 @@
+@charset "UTF-8";
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+  border: 0;
+  padding: 0;
+  vertical-align: middle;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+}
+
+html {
+  overflow-y: scroll;
+}
+
+body {
+  font: normal 14px/1 'Noto Sans', 'arial', 'sans-serif';
+  background: #fff;
+  color: #292929;
+}
+
+a {
+  color: #111;
+  text-decoration: none;
+  outline: 0;
+}
+
+ul, li {
+  list-style: none;
+}
+
+.hide {
+  display: none;
+}
+
+.blind {
+  text-indent: -2000px;
+  overflow: hidden;
+  display: block;
+}
+
+em, i, address {
+  font-style: normal;
+}
+
+header, main, footer, section, nav, article, aside {
+  display: block;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: 14px;
+  font-weight: normal;
+}
+
+.clearfix::after {
+  display: block;
+  content: '';
+  clear: both;
+}

@@ -1,0 +1,104 @@
+header 영역
+    - 너비 : 100%
+      max-width : 1170px
+    - 높이 : 전체 170px border-top:5px solid #009223;
+      헤더 1 : 100% 90px    배경색:#fff 폰트색:#111
+      헤더 2 : 100% 80px    폰트색:#292929
+
+    - 로고 : 202 x 40
+    - 로그인창 : 158.73 x 30
+    - 메인메뉴 : 1170 x 44.78
+
+
+
+main 영역
+    section 1
+        - 너비 : 100% max-width : 1874px
+        - 높이 : 490px
+        - background : #fff
+      - 메인 슬라이드   너비 : 100%
+                       높이 : 440px;
+      - big-quick 너비 : 1170px
+                  높이 : 80px
+
+
+    section 2
+        - 너비 : 100% max-width : 1874px
+        - 높이 : 620px
+        - background : #fff
+
+
+    section 3
+        - 너비 : 100% max- width : 1874px
+        - container 너비 : 1280px
+        - 높이 : 790px
+        - background : bg_content.gif repeat
+
+
+    section 4
+        - 너비 : 100% max-width: 1874px
+        - 높이 : 150.19px
+        - background : #fff
+
+
+
+footer 영역
+    - 너비 :100% 1874px
+    - container 너비 : 1170px
+    - 높이 :150.95px
+    - background : #292929
+
+
+
+
+
+
+
+
+ 메뉴소개
+
+샌드위치
+랩ㆍ기타
+샐러드
+아침메뉴
+스마일 썹
+단체메뉴
+
+
+이용방법
+
+써브웨이 이용방법
+단체메뉴 이용방법
+신선한 재료 소개
+App 이용방법
+
+
+새소식
+
+이벤트ㆍ프로모션
+뉴스ㆍ공지사항
+광고영상
+
+
+써브웨이
+
+써브웨이 역사
+써브웨이 약속
+샌드위치 아티스트 지원
+매장찾기
+
+
+가맹점
+
+써브웨이 프랜차이즈
+가맹관련 FAQ
+가맹신청ㆍ문의
+지사안내
+사업설명회
+
+
+온라인 주문
+
+FAST-SUB
+HOME-SUB
+단체주문
